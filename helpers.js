@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *RUDHRA*:  ```" + msg + "```"
+    return "✅ *BTH MODS*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *RUDHRA*:  ```" + msg + "```"
+    return "🛑 *BTH MODS*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *RUDHRA*:  ```" + msg + "```"
+    return "⏺️ *BTH MODS*:  ```" + msg + "```"
 }
 
 
