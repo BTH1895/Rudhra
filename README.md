@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-  [![`Prince Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/princerudh)
+  [![`Prince Rudh`](https://www.linkpicture.com/q/g_splash_logo.png)](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
 
-[`Prince Rudh`](https://github.com/princerudh)  
+[`Bth Wa Mods`](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
     
