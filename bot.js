@@ -140,7 +140,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅️RUDHRA working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
+            chalk.green.bold('✅️BTH working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -254,19 +254,19 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT == '905524317852-1612300121') {     
+    if (config.SUPPORT == '918891903813-1612300121') {     
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT2 == '917012074386-1631435717') {     
+    if (config.SUPPORT2 == '918891903816-1631435717') {     
         var tsup = config.SUPPORT2.split(',');                            
         if(msg.key.remoteJid.includes('-') ? tsup.includes(msg.key.remoteJid.split('@')[0]) : tsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT3 == '905511384572-1621015274') {     
+    if (config.SUPPORT3 == '918891903813-1621015274') {     
         var nsup = config.SUPPORT3.split(',');                            
         if(msg.key.remoteJid.includes('-') ? nsup.includes(msg.key.remoteJid.split('@')[0]) : nsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT4 == '905511384572-1625319286') {     
+    if (config.SUPPORT4 == '918891903813-1625319286') {     
         var nsup = config.SUPPORT4.split(',');                            
         if(msg.key.remoteJid.includes('-') ? nsup.includes(msg.key.remoteJid.split('@')[0]) : nsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
@@ -339,7 +339,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG == 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ༄ƦUÐҤƦλ࿐ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ BTH WA BOT ~______~*' +
                                     '\n\n*😵 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP``` ' 
                                     , MessageType.text);
                             }
