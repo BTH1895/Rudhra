@@ -5,12 +5,12 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/v9nzy97.png" width="300" height="300"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/g_splash_logo.png" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
